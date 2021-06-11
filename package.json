@@ -16,7 +16,7 @@
     "prettier": "^2.3.1"
   },
   "scripts": {
-    "web": "node lib/index.mjs",
-    "start": "nodemon lib/index.mjs"
+    "start": "node lib/index.mjs",
+    "dev": "nodemon lib/index.mjs"
   }
 }
